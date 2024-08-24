@@ -19,7 +19,7 @@
   
   const route = useRoute();
   const componentId = computed(() => route.meta.componentId);
-  import dashboard from '../components/dashboard.vue';
+  import dashboard from '../views/dashboard.vue';
 
 
   

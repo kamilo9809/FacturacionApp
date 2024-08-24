@@ -8,31 +8,31 @@ export const nav: Nav[] = [
   },
   {
     path: "hystory",
-    name: "Crear Factura",
+    name: "Historial",
     route: () => {},
   },
   {
     path: "searchInvoicing",
-    name: "Crear Factura",
+    name: "Buscar Factura",
     route: () => {},
   },
   {
     path: "clients",
-    name: "Crear Factura",
+    name: "Clientes",
     route: () => {},
   },
   {
     path: "configuration",
-    name: "Crear Factura",
+    name: "Configuracion de factura",
     route: () => {},
   },
   {
     path: "reports",
-    name: "Crear Factura",
+    name: "Reportes",
     route: () => {},
   },
   {
-    path: "",
+    path: "/login",
     name: "Salir",
     route: () => {},
   },
